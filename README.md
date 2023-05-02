@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+Geologist, Associate Professor at UFRN/Brazil. Structural geology and Python enthusiast.
 
 <!--
 **afantunes74/afantunes74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
